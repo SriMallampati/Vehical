@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Vehical</string>
+    <string name="action_settings">Settings</string>
+    <string name="Blogin">Log In</string>
+    <string name="TVusername">Username</string>
+    <string name="TVpassword">Password</string>
+    <string name="Bsignup">Sign Up Here</string>
+    <string name="emptyString" />
+    <string name="TVname">Name</string>
+    <string name="TVEmail">Email Address</string>
+    <string name="TVemail">Email</string>
+    <string name="TVuser">Username</string>
+    <string name="TVPAss">Password</string>
+    <string name="TVConPass">Confirm Password</string>
+    <string name="Bsignupbutton">Sign Up</string>
+</resources>
